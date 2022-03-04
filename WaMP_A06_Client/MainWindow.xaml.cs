@@ -18,8 +18,6 @@ using System.Threading;
 
 /*
  * Programmer   : Colby Taylor
- * Class        : PROG2121 Windows and Mobile Programming
- * Assignment   : A06 Service
  * File         : MainWindow.xaml.cs for use with project WaMP_A06_Service
  * Date         : 11/25/2021
  * Description  : holds the code and decision logic for the client side of the 
