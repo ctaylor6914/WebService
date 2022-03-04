@@ -13,8 +13,6 @@ using System.Collections;
 
 /*
  * Programmer   : Colby Taylor
- * Class        : PROG2121 Windows and Mobile Programming
- * Assignment   : A06 Service
  * File         : gamEngine.cs for use with project WaMP_A06_Service
  * Date         : 11/25/2021
  * Description  : this class drives the game logic on the serverside.
