@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 /*
  * Programmer   : Colby Taylor
- * Class        : PROG2121 Windows and Mobile Programming
- * Assignment   : A06 Service
  * File         : gameInfo.cs for use with project WaMP_A06_Service
  * Date         : 11/25/2021
  * Description  : holds the data for the incoming game state
