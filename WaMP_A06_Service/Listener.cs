@@ -10,8 +10,6 @@ using System.Configuration;
 
 /*
  * Programmer   : Colby Taylor
- * Class        : PROG2121 Windows and Mobile Programming
- * Assignment   : A06 Service
  * File         : gameInfo.cs for use with project WaMP_A06_Service
  * Date         : 11/25/2021
  * Description  : This class starts the TCP listener which waits for a 
